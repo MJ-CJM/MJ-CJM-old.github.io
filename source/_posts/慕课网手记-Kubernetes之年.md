@@ -1,4 +1,8 @@
-(封面图：Dockercon17，Solomon Hykes FOUNDER, CTO AND CHIEF PRODUCT OFFICER of Docker)
+---
+
+title: Minikube的下载和安装
+date: 2018-11-28 17:45:36
+---
 
 2月底，我的<系统学习Docker，CI/CD践行DevOps理念>实战课程就要上线了，这个课程是对我从2014年接触和使用Docker/Kuberntes以来的总结和分享，想写一点东西来梳理下这几年容器生态圈发生的故事。（这里也安利下这个实战课程，这个课程内容丰富，包括Docker的基础讲解，镜像，容器，单机多机网络，docker-Compose，Docker swarm，Docker Cloud，Docker企业版，Kubernetes，容器监控，以及多个CI/CD实践等）
 
