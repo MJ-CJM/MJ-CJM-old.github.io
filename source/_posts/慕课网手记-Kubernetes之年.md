@@ -1,6 +1,6 @@
 ---
 
-title: Minikube的下载和安装
+title: Kubernetes 之年
 date: 2018-11-28 17:45:36
 ---
 
