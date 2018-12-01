@@ -2,6 +2,8 @@
 
 title: Minikube的下载和安装
 date: 2018-11-06 09:58:34
+tags: Kubernetes
+categories: Kubernetes
 ---
 
 # Minikube的下载和安装
@@ -151,4 +153,3 @@ dab3d03f880b        d166ffa9201a                               "/opt/kube-addons
 Opening kubernetes dashboard in default browser...
 ➜  ~
 ```
-
