@@ -6,6 +6,7 @@ tags: Kubernetes
 categories: Kubernetes
 ---
 
+
 2月底，我的<系统学习Docker，CI/CD践行DevOps理念>实战课程就要上线了，这个课程是对我从2014年接触和使用Docker/Kuberntes以来的总结和分享，想写一点东西来梳理下这几年容器生态圈发生的故事。（这里也安利下这个实战课程，这个课程内容丰富，包括Docker的基础讲解，镜像，容器，单机多机网络，docker-Compose，Docker swarm，Docker Cloud，Docker企业版，Kubernetes，容器监控，以及多个CI/CD实践等）
 
 2017年底在美国德州Austin的Dockercon17上，[Docker宣布支持Kubernetes][1]，至此基本宣告在容器编排领域，Kubernetes取得了阶段性的胜利，但是否是绝对胜利，还要看K8S后续的成长，因为接下来K8S要面对的是，越来越多的企业用户开始在生产中大规模使用以及随之而来的集成复杂软件的挑战。但不管从哪方面讲，2018必将是Kubernetes之年。
