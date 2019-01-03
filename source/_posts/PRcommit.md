@@ -47,4 +47,4 @@ local:      release-1.12    zh-trans-x1
 5. `git push origin zh-trans-x2` # origin is your fork
 6. via Github UI (`website:release-1.12 <- fork:zh-trans-x2`)
 
-PS：下一次你可以把你的 release-1.12 branch 删掉了之后重建，这样就不会有什么旧的commits的问题了
+##### PS：下一次你可以把你的 release-1.12 branch 删掉了之后重建，这样就不会有什么旧的commits的问题了
