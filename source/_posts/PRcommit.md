@@ -39,12 +39,12 @@ local:      release-1.12    zh-trans-x1
 不一致（`website:release-1.12` 是 source of truth 会有很多 fork 来的 commits），
 这并不是什么大的问题（虽然不好看）。
  有了上面的认识，下面就是一步一步的命令行，假定上面的 `zh-trans-x1` 已经被合并，需要开始新的 `zh-trans-x2` 翻译：
- 1. `git checkout release-1.12`
-2. `git pull upstream release-1.12`
-3. `git checkout -b zh-trans-x2`
+ 1. `git checkout release-1.14`
+2. `git pull upstream release-1.14`
+3. `git checkout -b zh-trans-xx`
 3. (translating)
 4. `git add . && git commit -m 'zh-trans: add x2'`
-5. `git push origin zh-trans-x2` # origin is your fork
+5. `git push origin zh-trans-xx` # origin is your fork
 6. via Github UI (`website:release-1.12 <- fork:zh-trans-x2`)
 
-##### PS：下一次你可以把你的 release-1.12 branch 删掉了之后重建，这样就不会有什么旧的commits的问题了
+##### PS：下一次你可以把你的 release-1.14 branch 删掉了之后重建，这样就不会有什么旧的commits的问题了
